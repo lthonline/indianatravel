@@ -1,0 +1,2 @@
+[11-Feb-2018 02:42:44 UTC] PHP Fatal error:  Call to undefined function post_class() in /home/indianagodaddy/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[11-Feb-2018 02:42:53 UTC] PHP Fatal error:  Call to undefined function post_class() in /home/indianagodaddy/public_html/wp-includes/theme-compat/embed-content.php on line 13
